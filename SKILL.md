@@ -1,3 +1,4 @@
 ---
-name: example-skill"><img src=x>
+name: example-skill
 ---
+"><img src=x>
