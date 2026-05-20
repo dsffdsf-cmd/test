@@ -1,7 +1,10 @@
 ---
-name: test test test tets"><img src=x onerror=alert()>
+name: "test test test tets"
+description: "Example skill configuration"
+version: "1.0.0"
+author: "Your Name"
 ---
 
-# Skill Title"><img src=x onerror=alert()>
+# SKILL
 
-Describe what this skill does here.
+This is an example SKILL.md file with valid YAML front matter."><img src=x onerror=alert()>
