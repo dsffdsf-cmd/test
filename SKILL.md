@@ -1,10 +1,17 @@
 ---
-name: "test test test tets"
-description: "Example skill configuration"
-version: "1.0.0"
-author: "Your Name"
+name: example-skill
+description: A short description of what this skill does and when to use it.
 ---
 
-# SKILL
+# Example Skill
 
-This is an example SKILL.md file with valid YAML front matter."><img src=x onerror=alert()>
+## Purpose
+Use this skill when you need to demonstrate the required structure of a Manus skill file.
+
+## Instructions
+1. Read the user’s request carefully.
+2. Follow the workflow described in this file.
+3. Produce the requested output in a clear and concise format.
+
+## Example Output
+Provide a helpful answer that follows the skill’s purpose and instructions.
